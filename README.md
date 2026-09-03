@@ -11,6 +11,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/1729-find-followers-count) |
 ## Array
 |  |
 | ------- |
