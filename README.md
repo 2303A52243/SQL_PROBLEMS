@@ -6,6 +6,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/2303A52243/SQL_PROBLEMS/tree/master/0620-not-boring-movies) |
